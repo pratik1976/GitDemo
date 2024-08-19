@@ -1,3 +1,6 @@
 # GitDemo
 
-fgjffgkggfgmf
+This Git Demo
+
+#Teacher
+
